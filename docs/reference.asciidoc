@@ -2914,6 +2914,8 @@ client.connector.syncJobCheckIn()
 [discrete]
 ==== sync_job_claim
 Claims a connector sync job.
+
+{ref}/claim-connector-sync-job-api.html[Endpoint documentation]
 [source,ts]
 ----
 client.connector.syncJobClaim()
